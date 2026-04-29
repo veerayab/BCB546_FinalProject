@@ -13,3 +13,5 @@ Asthma is a chronic inflammatory lung disease affecting over 25 million American
 To identify GC-responsive genes in ASM, they performed RNA-seq to profile primary ASM cells from four white male donors treated with dexamethasone. Each sample yielded an average of 58.9 million reads, with about 83.36% aligning to the Homo sapiens (human) genome assembly GRCh37 (hg19) reference genome. Over 98% of mapped bases were mRNA. Transcript and gene expression levels were quantified using hg19 RefSeq annotations. We then used the gene count matrix and reimplemented the analysis with code different from the original paper to replicate Figure 1A and Table 1, since the originally used package (cummeRbund) is outdated and no longer actively maintained. Finally, we performed additional differential gene expression analysis using the DESeq2 package.
 
 ## Summary of results:
+
+[to be updated].
