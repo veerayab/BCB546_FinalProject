@@ -28,7 +28,7 @@ This repository contains:
   2. results: this include summary of the results and intermediate tables
   3. tables: this include table1 and S3 replication tables
 
-## [Himes-2014.md](https://github.com/veerayab/BCB546_FinalProject/tree/main/Himes-2014.md) ##
+### [Himes-2014.md](https://github.com/veerayab/BCB546_FinalProject/tree/main/Himes-2014.md) ##
 This include the overview and summary of the final project
 
 **PWP slides is also included in the main repository**
