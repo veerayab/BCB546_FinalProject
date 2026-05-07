@@ -9,7 +9,7 @@ Original paper: https://doi.org/10.1371/journal.pone.0099625
 
 Data GEO: GSE52778
 
-This repository contains R scripts to replicate the RNA-seq analysis from the original paper (Himes et al., 2014) and add new analysis. All scripts are in the 01_scripts folder. The resulting figures and tables are in the 02_output_files folder. The data used are downloaded and placed in the 00_data folder.
+Bioconductor workflow: https://www.bioconductor.org/help/course-materials/2015/Uruguay2015/V6-RNASeq.html#background
 
 ## Introduction:
 Asthma is a chronic inflammatory lung disease affecting over 25 million Americans and 300 million people worldwide, marked by variable airflow limitation and heightened airway responsiveness. Using RNA-Seq, the authors investigated changes in the transcriptome in four primary human airway smooth muscle (ASM) cell lines that were treated with dexamethasone, an artificial glucocorticoid (GC - common medications used to treat asthma) for cell lines. Results were then validated by functional experiments.
