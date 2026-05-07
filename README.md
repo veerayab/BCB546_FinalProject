@@ -12,10 +12,10 @@ Reposity is created as a purpose of BCB/EEOB546 Final project
 
 This repository contains:
 
-### 00_data_files
+### [00_data_files](./00_data_files/)
 * This folder includes all working files needed to replicate the results
 
-### 01_scripts
+### 01_scripts(./01_scripts/)
 * This folder contains R. code that has used to replicate the results
 
   : paper_replication. R - include script that replicate on volcano plots and top DE genes table
