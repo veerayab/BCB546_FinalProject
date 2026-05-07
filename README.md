@@ -12,7 +12,7 @@ Reposity is created as a purpose of BCB/EEOB546 Final project
 
 This repository contains:
 
-### [00_data_files](https://github.com/veerayab/BCB546_FinalProject/tree/main/00_data_files)
+### [00_data_files](https://github.com/veerayab/BCB546_FinalProject/tree/main/00_data)
 * This folder includes all working files needed to replicate the results
 
 ### [01_scripts](https://github.com/veerayab/BCB546_FinalProject/tree/main/01_scripts)
