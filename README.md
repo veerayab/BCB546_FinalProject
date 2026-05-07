@@ -1,4 +1,8 @@
-# BCB546_FinalProject: RNA-Seq Differential Expression
+# BCB546_FinalProject: RNA-Seq Transcriptome Profiling Identifies CRISPLD2 as a Glucocorticoid Responsive Gene that Modulates Cytokine Function in Airway Smooth Muscle Cells
+Authors: Blanca E. Himes, Xiaofeng Jiang, Peter Wagner, Ruoxi Hu, Qiyu Wang, Barbara Klanderman, Reid M. Whitaker, Qingling Duan, Jessica Lasky-Su, Christina Nikolos, William Jester, Martin Johnson, Reynold A. Panettieri Jr, Kelan G. Tantisira, Scott T. Weiss, Quan Lu
+
+Published: June 13, 2014
+
 Group members: Veeraya Bamrung, Emma Tran
 
 Original paper: https://doi.org/10.1371/journal.pone.0099625
@@ -14,4 +18,4 @@ To identify GC-responsive genes in ASM, they performed RNA-seq to profile primar
 
 ## Summary of results:
 
-[to be updated].
+In conclusion, this study demonstrated how RNA-seq and differential gene expression analysis can be used to investigate the biological effects of dexamethasone treatment. By applying DESeq2 to the RNA-seq data, we identified 316 differentially expressed genes, among which CRISPLD2 emerged as a potential regulator of inflammatory responses. Through this project, we gained practical experience in understanding which types of data are appropriate for DESeq2 analysis and how differential gene expression analysis is performed in practice. At the same time, we learned that reproducing published analyses can be challenging when pipelines and scripts are not thoroughly documented, as reflected by the differences in our results. This project also highlighted the importance of considering version changes in long-term data repositories such as NCBI, as well as the need to carefully evaluate R packages and analysis tools since some may become outdated over time. Overall, this experience provided both biological insights and valuable lessons about the challenges of reproducible bioinformatics research.
