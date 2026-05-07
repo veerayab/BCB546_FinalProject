@@ -18,8 +18,9 @@ This repository contains:
 ### 01_scripts
 * This folder contains R. code that has used to replicate the results
 
-: paper_replication. R - include script that replicate on volcano plots and top DE genes table
-: new analysis. R - include script that replicate microarray (bioconductor) part
+  : paper_replication. R - include script that replicate on volcano plots and top DE genes table
+  
+  : new analysis. R - include script that replicate microarray (bioconductor) part
 
 ###  02_output_files
 * This folder contains all the output files, including 3 sub-folders
