@@ -1,7 +1,11 @@
 # Final Project: RNA-Seq Transcriptome Profiling Identifies CRISPLD2
+
 Members: **Veeraya Bamrung, Emma Tran**
+
 Presentation date: **May8th, 2026**
+
 Reposity is created as a purpose of BCB/EEOB546 Final project
+
 !This README file only contains details about the file directory
 
 # Overview 
@@ -13,6 +17,7 @@ This repository contains:
 
 ### 01_scripts
 * This folder contains R. code that has used to replicate the results
+
 : paper_replication. R - include script that replicate on volcano plots and top DE genes table
 : new analysis. R - include script that replicate microarray (bioconductor) part
 
