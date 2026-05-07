@@ -31,7 +31,7 @@ This repository contains:
 ## Himes-2014.md ##
 This include the overview and summary of the final project
 
-**PWP slides is cluded in the main repository**
+**PWP slides is also included in the main repository**
 
 ## Cloning this repository for the first time
 
